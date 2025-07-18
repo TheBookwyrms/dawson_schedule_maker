@@ -3,6 +3,11 @@ from schedule_possibilities import (get_all_allowed_gen_eds, iterate_for_possibl
                                     export_mandatory_sections, export_schedules)
 
 
+allow_intensive_courses = False
+complementary_language = "fr"
+complementary_filename = "complementaries"
+
+
 mandatory_courses = [
     "Algébre Linéaire et Géométrie Vectorielle",
     "Engineering Physics",
@@ -13,11 +18,9 @@ gen_eds = [
     "Applied Ethics in Humanities",
     "Literary Themes",
     "Physical Activity and Health",
-    "complementaries",
+    complementary_filename,
 ]
 
-allow_intensive_courses = False
-complementary_language = "fr"
 
 defaults = (mandatory_courses, gen_eds, allow_intensive_courses, complementary_language)
 
@@ -39,7 +42,7 @@ unique_sch_with_gym = get_unique_schedules(possible_sch_with_gym)
 #print(mandatory_sections.schedule_dict)
 
 for course in allowed_sections:
-    print(course.title, len(course))
+    print(len(course), "compatible courses in", course.title)
 
 
 #print()
@@ -47,9 +50,8 @@ for course in allowed_sections:
 #                schedules whose timeslots result in equivalent
 #                schedules, regardless of the courses
 #                or sections that make them up''')
-#print()
-#print(f'{len(possible_sch_no_gym)} possible schedules, before iterating through gyms')
-#print(f'{len(possible_sch_with_gym)} possible schedules, iterating through gyms')
-#print(f'{len(unique_sch_no_gym)} schedules with unique timeslots, before iterating through gyms')
-#print(f'{len(unique_sch_with_gym)} schedules with unique timeslots, iterating through gyms')
-#print()
+print()
+print(f'{len(possible_sch_no_gym)} possible schedules, before iterating through gyms')
+print(f'{len(possible_sch_with_gym)} possible schedules, iterating through gyms')
+print(f'{len(unique_sch_no_gym)} schedules with unique timeslots, before iterating through gyms')
+print(f'{len(unique_sch_with_gym)} schedules with unique timeslots, iterating through gyms')

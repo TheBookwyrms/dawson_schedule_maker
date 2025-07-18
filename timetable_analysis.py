@@ -51,11 +51,19 @@ def filter_against_mandatory_sections(mandatory_sections : CoursesAndSchedules,
 
         if section.class_type != "Intensive":
             if course.title == "complementaries":
-                original_len = len(course)
-                if not section.comment:
-                    continue
-                elif not "french".upper() in section.comment.upper():
-                    continue
+
+                if complementary_language == "fr":
+                    if not section.comment:
+                        continue
+                    elif not "french".upper() in section.comment.upper():
+                        continue
+                elif complementary_language == "en":
+                    if section.comment:
+                        if "french".upper() in section.comment.upper():
+                            continue
+                else:
+                    raise Exception(f'language {complementary_language} not en or fr')
+
             elif section.comment:
                 if section.comment in ["Reflections", "New School"]:
                     continue

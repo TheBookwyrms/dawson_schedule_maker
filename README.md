@@ -8,10 +8,10 @@ how to use:
      - note that some precopied ones are already there, but are likely outdated or may refer to courses of differing levels, and should be be updated if time permits
 4) inside of ```use_schedule_maker.py```, place the name of each txt file into the respective list for it
    - as in, titles for science txt files into mandatory_courses list, titles for gen ed txt files into gen_eds list
-5) set settings below the lists for whether to allow intensive courses or not, and to the language of complementary courses you would be taking
+5) set settings above the lists for whether to allow intensive courses or not, and to the language of complementary courses you would be taking, as well as the title of the file containing the complementaries
    - note for people going to DESY, it is unlikely we would be able do gym intensives, as we would miss a large portion of classes
 6) run ```use_schedule_maker.py``` to print the number of possible and unique schedules you have, given the listed courses
 7) optional export features include:
-   - ```export_allowed_courses``` : exports txt files of the sections for all gen eds that are compatible with assigned courses for enriched science, as well as a csv with similar information collated into ```compatible_sections``` directory
+   - ```export_allowed_courses``` : exports txt files of the sections for all gen eds that are compatible with assigned courses, as well as a csv with similar information collated into ```compatible_sections``` directory
    - ```export_mandatory_sections``` : exports a single image of the minimal schedule which is built by your assigned science courses into ```mandatory_stuff``` directory
    - ```export_images``` : exports images of all unique schedules without and with including gym variants into the ```unique_schedules_no_gym``` and ```unique_schedules_with_gym``` directories, respectively
