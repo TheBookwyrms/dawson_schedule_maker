@@ -37,7 +37,7 @@ unique_sch_with_gym = get_unique_schedules(possible_sch_with_gym)
 
 #export_allowed_courses(allowed_sections)
 #export_mandatory_sections([mandatory_sections])
-#export_images(unique_sch_no_gym, unique_sch_with_gym)
+#export_schedules(unique_sch_no_gym, unique_sch_with_gym)
 
 #print(mandatory_sections.schedule_dict)
 

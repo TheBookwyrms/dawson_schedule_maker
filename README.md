@@ -15,4 +15,4 @@ how to use:
 6) optional export features include:
    - ```export_allowed_courses``` : exports txt files of the sections for all gen eds that are compatible with assigned courses, as well as a csv with similar information collated into ```compatible_sections``` directory
    - ```export_mandatory_sections``` : exports a single image of the minimal schedule which is built by your assigned science courses into ```mandatory_stuff``` directory
-   - ```export_images``` : exports images of all unique schedules without and with including gym variants into the ```unique_schedules_no_gym``` and ```unique_schedules_with_gym``` directories, respectively
+   - ```export_schedules``` : exports images of all unique schedules without and with including gym variants into the ```unique_schedules_no_gym``` and ```unique_schedules_with_gym``` directories, respectively
