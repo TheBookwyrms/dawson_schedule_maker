@@ -11,7 +11,8 @@ import numpy as np
 def get_courses():
 
     timetable_dir = os.getcwd()+os.sep+"timetables"+os.sep
-    timetable_files = np.array(os.listdir(timetable_dir), dtype=object)
+    timetable_files = os.listdir(timetable_dir)
+    timetable_files = np.array([file for file in timetable_files if file != ".gitkeep"], dtype=object)
 
     timetable_paths = np.array((timetable_dir,)*timetable_files.shape[0], dtype=object)
     timetable_paths += timetable_files
@@ -50,36 +51,16 @@ def filter_against_mandatory_sections(mandatory_sections : CoursesAndSchedules,
 
         if section.class_type != "Intensive":
             if course.title == "complementaries":
-                pass
-
-            elif course.title == "all_com":
                 original_len = len(course)
-                #print(section.comment)
                 if not section.comment:
                     continue
                 elif not "french".upper() in section.comment.upper():
                     continue
-
-                #if section.comment:
-                #    if "french".upper() in section.comment.upper():
-                #        i+= 1
-                    #i += 1
-                    #if "french".upper() in section.comment.upper():
-                    #    i+= 1
-                    #else:
-                    #    print(section.comment)
-                #print(original_len, i)
-
-            elif course.title == "Complementaries in French":
-                pass
-
             elif section.comment:
                 if section.comment in ["Reflections", "New School"]:
                     continue
 
 
-            #if course.title == "all_com":
-            #    print(section.schedule_dict)
             section.update_schedule_dict()
             curr_schedule = copy.deepcopy(mandatory_sections.schedule_dict)
 
@@ -94,14 +75,9 @@ def filter_against_mandatory_sections(mandatory_sections : CoursesAndSchedules,
             else: # don't allow intensives
                 pass
 
-
     allowed = CoursesAndSchedules()
     allowed.title = course.title
     allowed.sections = allowed_sections
-
-    #if course.title == "Physical Activity and Health":
-    #    for section in allowed_sections:
-    #        print(section.section_number)
 
     return allowed
 

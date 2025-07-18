@@ -45,7 +45,7 @@ Intensive
 
 Results from Fall 2025
 
-This information was last updated at Monday, July 14, 2025 at 10:05 PM
+This information was last updated at Thursday, July 17, 2025 at 6:05 PM
 Anthropology
 Complémentaire en Anthropologie - Ensemble I
 
@@ -93,8 +93,113 @@ Complémentaire en Anthropologie - Ensemble II
 
 Business Administration
 Social science: introduction to business administration
+
+    Section
+    00001
+    Teacher
+    Maria Blazkiewicz
+    Description
+    This complementary course prepares students for the complexities of starting and managing a small business. The focus of the course will be the practical aspects of entrepreneurship by showing students how to develop an effective as well as realistic business plan that would greatly increase the probability of success.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Monday	1:00 PM - 2:30 PM	3H.21	Class
+    Thursday	10:00 AM - 11:30 AM	3H.21	Class
+
 Cinema
 Introduction to Cinema
+
+    Section Title
+    Cinema Styles
+    Section
+    00001
+    Teacher
+    Nancy Barnett
+    Description
+    “Create your own visual style... let it be unique for yourself and yet identifiable for others.” This creative advice from legendary filmmaker Orson Welles underlies this course introducing students to the diversity of cinematic production. A wide range of filmic expression is examined through a variety of film forms, genres and styles. The class will examine contemporary and past works notable for their aesthetic approach and storytelling techniques, as well as their unique treatment of social realities.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Thursday	2:30 PM - 5:30 PM	4C.8	Class
+
+    Section Title
+    Cinema Styles
+    Section
+    00002
+    Teacher
+    Justine McLellan
+    Description
+    “Create your own visual style... let it be unique for yourself and yet identifiable for others.” This creative advice from legendary filmmaker Orson Welles underlies this course introducing students to the diversity of cinematic production. A wide range of filmic expression is examined through a variety of film forms, genres and styles. The class will examine contemporary and past works notable for their aesthetic approach and storytelling techniques, as well as their unique treatment of social realities.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Tuesday	11:30 AM - 2:30 PM	4C.4	Class
+
+    Section Title
+    Cinema Styles
+    Section
+    00003
+    Teacher
+    Dipti Gupta
+    Description
+    “Create your own visual style... let it be unique for yourself and yet identifiable for others.” This creative advice from legendary filmmaker Orson Welles underlies this course introducing students to the diversity of cinematic production. A wide range of filmic expression is examined through a variety of film forms, genres and styles. The class will examine contemporary and past works notable for their aesthetic approach and storytelling techniques, as well as their unique treatment of social realities.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Wednesday	2:30 PM - 5:30 PM	4C.8	Class
+
+    Section Title
+    Cinema Styles
+    Section
+    00004
+    Teacher
+    Dipti Gupta
+    Description
+    “Create your own visual style... let it be unique for yourself and yet identifiable for others.” This creative advice from legendary filmmaker Orson Welles underlies this course introducing students to the diversity of cinematic production. A wide range of filmic expression is examined through a variety of film forms, genres and styles. The class will examine contemporary and past works notable for their aesthetic approach and storytelling techniques, as well as their unique treatment of social realities.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Wednesday	8:30 AM - 11:30 AM	4C.8	Class
+
+    Section Title
+    Cinema Styles
+    Section
+    00005
+    Teacher
+    TBA-530-A
+    Description
+    “Create your own visual style... let it be unique for yourself and yet identifiable for others.” This creative advice from legendary filmmaker Orson Welles underlies this course introducing students to the diversity of cinematic production. A wide range of filmic expression is examined through a variety of film forms, genres and styles. The class will examine contemporary and past works notable for their aesthetic approach and storytelling techniques, as well as their unique treatment of social realities.
+    Comment
+    On Reserve
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Thursday	8:30 AM - 11:30 AM	4C.4	Class
+
 Complémentaire en Cinéma - Ensemble I
 
     Section Title
@@ -157,7 +262,45 @@ Complémentaire en Cinéma - Ensemble I
 
 Contemporary Issues
 Contemporary Issues Set 1
+
+    Section Title
+    Racism
+    Section
+    00001
+    Teacher
+    Eliza Wood
+    Description
+    Though few people openly declare themselves racist today, racism still endures. We can see its presence in modern-day policing, mass incarceration, poverty rates, school funding, healthcare, and the education system — as well as in many other sectors of society. In this Contemporary Issues course, we will engage in a cross-disciplinary examination of racism as a historical and present-day reality, focusing predominantly on anti-Black racism in the United States and Canada.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Monday	8:30 AM - 10:00 AM	2P.09	Class
+    Wednesday	8:30 AM - 10:00 AM	2P.09	Class
+
 Contemporary Issues Set 2
+
+    Section Title
+    Personal Finance
+    Section
+    00001
+    Teacher
+    Rosario Lo Raso
+    Description
+    Students will examine contemporary issues within the context of personal finances and money management. Students will participate in research and problem-solving about contemporary forces contextualized within the backdrop of a financial framework. Students will consider personal financial requirements in various life stages and the application of goal setting and budgeting towards a personal financial plan.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Tuesday	1:00 PM - 2:30 PM	3H.21	Class
+    Thursday	1:00 PM - 2:30 PM	3H.21	Class
+
 Problématiques Contemporaines - Ensemble I
 
     Section Title
@@ -245,6 +388,23 @@ Problématiques Contemporaines - Ensemble II
 
 Geography
 Introduction to Geography and the Environment
+
+    Section
+    00001
+    Teacher
+    Gisela Frias
+    Description
+    Are you interested in travelling the world? How might where you live affect the opportunities you have? How do we (really) address climate change? In this course, we’ll go beyond maps and borders to uncover the stories behind real-world issues like gentrification, climate justice, migration, global inequality and more. Through projects, discussions, and real-world case studies, we’ll investigate how human decisions shape our environments—and how those environments, in turn, shape us. Whether you're curious about global events or your community's geography, this course is about making sense of the world and our place in it.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Tuesday	4:00 PM - 5:30 PM	4D.17	Class
+    Thursday	4:00 PM - 5:30 PM	4D.17	Class
+
 History
 Complémentaire en Histoire - Ensemble I
 
@@ -290,7 +450,171 @@ Complémentaire en Histoire - Ensemble I
 
 Music
 Introduction to the Art of Music
+
+    Section Title
+    Appreciating Music
+    Section
+    00001
+    Teacher
+    Matthew Murphy
+    Description
+    The aim of this course is to develop the skill of perceptive listening and to increase the students’ understanding and enjoyment of music. The course will focus on Classical music, jazz, rock & contemporary styles. Principal styles will be considered along with major composers, performers, and types of compositions.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Tuesday	10:00 AM - 11:30 AM	8A.3	Class
+    Friday	10:00 AM - 11:30 AM	8A.3	Class
+
+    Section Title
+    Appreciating Music
+    Section
+    00002
+    Teacher
+    Matthew Murphy
+    Description
+    The aim of this course is to develop the skill of perceptive listening and to increase the students’ understanding and enjoyment of music. The course will focus on Classical music, jazz, rock & contemporary styles. Principal styles will be considered along with major composers, performers, and types of compositions.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Monday	2:30 PM - 4:00 PM	8A.3	Class
+    Wednesday	2:30 PM - 4:00 PM	8A.3	Class
+
+    Section Title
+    Popular Music Culture
+    Section
+    00003
+    Teacher
+    Vincenzo Lentini
+    Description
+    This course is an introduction to a diversity of popular styles that flourished after 1945 in the US, Canada and the UK. Students will explore leading styles, major artists and groups, and significant song themes. Emphasis will be given to rock and roll which, in the mid-1950's, revolutionized popular music and has become its predominant expression.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Monday	1:00 PM - 2:30 PM	8A.3	Class
+    Thursday	10:00 AM - 11:30 AM	8A.3	Class
+
+    Section Title
+    Music History
+    Section
+    00004
+    Teacher
+    Matthew Murphy
+    Description
+    This course will introduce students to the broad spectrum of music history. The main styles from ancient to modern music and from Art to Popular music will be considered along with the main composers in the specific periods.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Monday	10:00 AM - 11:30 AM	8A.3	Class
+    Wednesday	10:00 AM - 11:30 AM	8A.3	Class
+
+    Section Title
+    Music History
+    Section
+    00005
+    Teacher
+    Matthew Murphy
+    Description
+    This course will introduce students to the broad spectrum of music history. The main styles from ancient to modern music and from Art to Popular music will be considered along with the main composers in the specific periods.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Tuesday	8:30 AM - 10:00 AM	8A.3	Class
+    Friday	8:30 AM - 10:00 AM	8A.3	Class
+
 Applications in the Art of Music
+
+    Section Title
+    Introduction to Singing
+    Section
+    00001
+    Teacher
+    Sarah Rossy
+    Description
+    This course will introduce students to basic vocal and singing performance techniques. Students will be taught the fundamentals of music theory and how to create and perform vocal harmonies in contemporary songs.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Monday	8:30 AM - 10:00 AM	8A.3	Class
+    Wednesday	8:30 AM - 10:00 AM	8A.3	Class
+
+    Section Title
+    Introduction to Fingerstyle Guitar
+    Section
+    00002
+    Teacher
+    Vincenzo Lentini
+    Description
+    This course does not have any prerequisites. In this beginner's class students will explore and play guitar using fingerstyle techniques. Students will develop a solid foundation for accompanying popular songs and playing in a group setting. For all guitar classes: Students must provide their own guitar (acoustic with metal strings or classical with nylon strings). Daily practice is highly recommended in order to acquire the competencies necessary to be successful in the course.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Tuesday	11:30 AM - 1:00 PM	8A.3	Class
+    Thursday	11:30 AM - 1:00 PM	8A.3	Class
+
+    Section Title
+    Vocal Expression
+    Section
+    00003
+    Teacher
+    Sarah Rossy
+    Description
+    This course will introduce students to the principles of the vocal mechanism, sound production, pitch control, rhythmic accuracy, and musical expression. Students will gain an understanding of basic ear training, musical vocabulary and theory; they will learn how to apply these concepts to singing.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Tuesday	1:00 PM - 2:30 PM	8A.3	Class
+    Thursday	1:00 PM - 2:30 PM	8A.3	Class
+
+    Section Title
+    Vocal Interpretation
+    Section
+    00004
+    Teacher
+    Sarah Rossy
+    Description
+    No description available at this time
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Wednesday	11:30 AM - 1:00 PM	8A.3	Class
+    Friday	11:30 AM - 1:00 PM	8A.3	Class
+
 Complémentaire en Musique - Ensemble II
 
     Section Title
@@ -358,6 +682,45 @@ Complémentaire en Philosophie - Ensemble I
 
 Professional Photography
 Arts and aesthetics: introduction to the visual arts
+
+    Section Title
+    Photography: Art and Techniques of Persuasion
+    Section
+    00001
+    Teacher
+    Peter Berra
+    Description
+    No description available at this time
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Wednesday	1:00 PM - 2:30 PM	5B.2	Lab
+    Friday	1:00 PM - 2:30 PM	5B.2	Lab
+
+    Section Title
+    Photography: Art and Techniques of Persuasion
+    Section
+    00002
+    Teacher
+    TBA-570-B
+    Description
+    No description available at this time
+    Comment
+    On Reserve
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Monday	2:30 PM - 4:00 PM	5B.3	Lab
+    Wednesday	2:30 PM - 4:00 PM	5B.3	Lab
+
 Complémentaire en Arts Visuels - Ensemble I
 
     Section Title
@@ -486,10 +849,67 @@ Complémentaire en Psychologie - Ensemble II
 
 Religion
 Social science: applications in religion studies
+
+    Section Title
+    Jesus: He's Everywhere
+    Section
+    00001
+    Teacher
+    Calogero Miceli
+    Description
+    Who was Jesus? Was he married? Did he kill? The following course explores the figure of Jesus throughout the centuries from historical and literary sources to modern depictions of Jesus in popular culture such as film, art, comics, and more. Students survey some of the primary sources associated with the historical Jesus such as the traditional Christian canonical gospels of the New Testament. Along with these we explore the Jesus found in apocryphal Christian literature, ancient documents which detail interesting, often lesser-known accounts of Jesus as a child and miracle worker. The course teaches students to think critically about a major figure of our time using various social scientific approaches. In this course, we investigate and critique various understandings of who Jesus was and how he is understood and perceived today.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Tuesday	4:00 PM - 5:30 PM	3B.15	Class
+    Thursday	4:00 PM - 5:30 PM	3B.15	Class
+
 Social Service
 Social Science 1
+
+    Section Title
+    The Power of Non-Violent Communication
+    Section
+    00001
+    Teacher
+    Rosemary Barrett
+    Description
+    This course will help you to build non-violent communication skills at both personal and community levels. From a social (service) work perspective, the issue of non-violence and how we can promote a society based on valuing dignity and respect of individuals and groups will be explored. Looking at how individuals and groups can meet their needs using alternatives to violence will be a focus. Students will then be introduced to, and practice, non-violent communication skills including assertiveness, listening, conflict-resolution and emotional management. The course will then ask students to explore how the issue of non-violence is being addressed at the community level. Students will familiarize themselves with community initiatives both within Dawson College and Montreal as well as other parts of the country and the world.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Wednesday	11:30 AM - 1:00 PM	3F.5	Class
+    Friday	11:30 AM - 1:00 PM	3F.5	Class
+
 Visual Arts
 Applications in Fine Arts
+
+    Section Title
+    Sculptural Assemblage
+    Section
+    00001
+    Teacher
+    Ingrid Tremblay
+    Description
+    In this course, students will produce sculptures through assemblage of materials such as: paper, wood, metal and found objects using glues, transfers, paints and a range of mechanical connections. They will also learn the vocabulary appropriate to assemblage (e.g. iconography, fundamentals of composition, etc.), and to analyze the work of various sculptors.
+    Course
+    Withdrawal Date
+    Friday, September 19, 2025
+    Course
+    Drop Date
+    Thursday, October 30, 2025
+    Schedule
+    Tuesday	8:30 AM - 11:30 AM	1G.4	Lab
+    Tuesday	8:30 AM - 11:30 AM	1G.8	Lab
+
 Complémentaire en Arts Plastiques - Ensemble II
 
     Section Title

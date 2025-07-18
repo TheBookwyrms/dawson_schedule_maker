@@ -13,9 +13,7 @@ gen_eds = [
     "Applied Ethics in Humanities",
     "Literary Themes",
     "Physical Activity and Health",
-    "all_com",
-    #"complementaries",
-    #"Complementaries in French",
+    "complementaries",
 ]
 
 allow_intensive_courses = False
