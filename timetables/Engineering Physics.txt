@@ -45,7 +45,7 @@ Intensive
 
 Results from Fall 2025
 
-This information was last updated at Friday, June 27, 2025 at 11:34 PM
+This information was last updated at Tuesday, July 29, 2025 at 5:31 AM
 Physics
 Engineering Physics
 
@@ -86,7 +86,7 @@ Engineering Physics
     Section
     00003
     Teacher
-    TBA-203-A
+    Diana Glennie
     Description
     This course introduces students to the foundations of physics that underlie many fields in engineering by extending important notions from previous physics and mathematics courses and applying them to advanced applications. Topics may include the mechanics of rigid bodies, structural analysis, material strength, beam analysis, fluids, advanced circuits, electronics, and microcontrollers – all of which are important in how things move, how things break, how things are made strong enough not to break, how fluids behave, and how circuits, microcontrollers and basic electronics work. The course includes a semester-long project.
     Course

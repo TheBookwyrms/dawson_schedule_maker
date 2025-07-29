@@ -35,7 +35,7 @@ possible_sch_with_gym = iterate_for_possible_schedules(mandatory_sections, allow
 unique_sch_no_gym = get_unique_schedules(possible_sch_no_gym)
 unique_sch_with_gym = get_unique_schedules(possible_sch_with_gym)
 
-#export_allowed_courses(allowed_sections)
+export_allowed_courses(allowed_sections)
 #export_mandatory_sections([mandatory_sections])
 #export_schedules(unique_sch_no_gym, unique_sch_with_gym)
 

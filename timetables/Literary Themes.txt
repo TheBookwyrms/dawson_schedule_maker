@@ -45,7 +45,7 @@ Intensive
 
 Results from Fall 2025
 
-This information was last updated at Friday, June 27, 2025 at 11:34 PM
+This information was last updated at Tuesday, July 29, 2025 at 5:05 AM
 English
 Important Information
 
@@ -164,14 +164,12 @@ Literary Themes
     Monday	8:00 AM - 10:00 AM	4A.2	Class
     Wednesday	8:00 AM - 10:00 AM	4A.2	Class
 
-    Section Title
-    Gender Issues in Drama
     Section
     00007
     Teacher
     Louise Arsenault
     Description
-    This course examines the various gender issues that are addressed in four or five highly acclaimed plays that challenge gender role constructs and stereotyping. Plays will be selected from the modern and contemporary periods and students will be encouraged to explore their historical and social contexts. The class will read aloud from the plays and act out a scene in a group. Attendance at a relevant play is mandatory as well as a written review of it. Personal opinions and insights are welcome.
+    No description available at this time
     Course
     Withdrawal Date
     Friday, September 19, 2025
@@ -182,14 +180,12 @@ Literary Themes
     Wednesday	12:00 PM - 2:00 PM	5D.2	Class
     Friday	12:00 PM - 2:00 PM	5D.2	Class
 
-    Section Title
-    Gender Issues in Drama
     Section
     00008
     Teacher
     Louise Arsenault
     Description
-    This course examines the various gender issues that are addressed in four or five highly acclaimed plays that challenge gender role constructs and stereotyping. Plays will be selected from the modern and contemporary periods and students will be encouraged to explore their historical and social contexts. The class will read aloud from the plays and act out a scene in a group. Attendance at a relevant play is mandatory as well as a written review of it. Personal opinions and insights are welcome.
+    No description available at this time
     Course
     Withdrawal Date
     Friday, September 19, 2025
@@ -200,14 +196,12 @@ Literary Themes
     Tuesday	2:00 PM - 4:00 PM	4D.2	Class
     Thursday	2:00 PM - 4:00 PM	4D.2	Class
 
-    Section Title
-    Family Dramas: from Ancient Greek t
     Section
     00009
     Teacher
     Alyson Grant
     Description
-    Jealousy, justice, revenge, hubris, and fate — in other words, the world of Ancient Greek drama. This course will pair the seminal Ancient Greek plays of Sophocles and Euripides with modern and contemporary adaptations to see how the concerns of those who came before us echo in our world today. Our reading of each Greek play will be followed by the adaptation, allowing us a framework for understanding the enduring themes in more current contexts.
+    No description available at this time
     Course
     Withdrawal Date
     Friday, September 19, 2025
@@ -215,8 +209,8 @@ Literary Themes
     Drop Date
     Thursday, October 30, 2025
     Schedule
-    Tuesday	12:00 PM - 2:00 PM	3F.3	Class
-    Thursday	12:00 PM - 2:00 PM	3F.3	Class
+    Tuesday	12:00 PM - 2:00 PM	4F.4	Class
+    Thursday	12:00 PM - 2:00 PM	4F.4	Class
 
     Section Title
     The Green Fuse
@@ -417,13 +411,13 @@ Literary Themes
     Thursday	8:00 AM - 10:00 AM	3F.27	Class
 
     Section Title
-    The Uncanny
+    The Black Canadian Experience
     Section
     00022
     Teacher
-    Anna Hilary Bergen
+    Frank Runcie
     Description
-    No description available at this time
+    Although Black Canadians are often considered to be only recent immigrants, we have been here since the early colonial era, contributing to the fabric of Canada. This thematic course shares works reflective of the Canadian experience of those of African and Afro-Caribbean descent since that time. It seeks to engage with history as well as art in genres as varied as poetry, biography, the novel, and documentary and fictional films. Topics to be covered include slavery, the world wars, postwar immigration, the 1968 Congress of Black Writers, and the 1969 Sir George Williams Protest. The objective is to give students an appreciation of Canadian citizenship from this perspective. Among the authors who works will be studied are Suzette Mayr, Cecil Foster, and H. Nigel Thomas.
     Course
     Withdrawal Date
     Friday, September 19, 2025
@@ -431,8 +425,8 @@ Literary Themes
     Drop Date
     Thursday, October 30, 2025
     Schedule
-    Tuesday	4:00 PM - 6:00 PM	4P.02	Class
-    Thursday	4:00 PM - 6:00 PM	4P.02	Class
+    Tuesday	4:00 PM - 6:00 PM	4E.7	Class
+    Thursday	4:00 PM - 6:00 PM	4E.7	Class
 
     Section Title
     Texts and Trails
@@ -579,13 +573,13 @@ Literary Themes
     Wednesday	8:00 AM - 10:00 AM	2P.67	Class
 
     Section Title
-    The Black Canadian Experience
+    The Uncanny
     Section
     00032
     Teacher
-    Frank Runcie
+    Anna Hilary Bergen
     Description
-    Although Black Canadians are often considered to be only recent immigrants, we have been here since the early colonial era, contributing to the fabric of Canada. This thematic course shares works reflective of the Canadian experience of those of African and Afro-Caribbean descent since that time. It seeks to engage with history as well as art in genres as varied as poetry, biography, the novel, and documentary and fictional films. Topics to be covered include slavery, the world wars, postwar immigration, the 1968 Congress of Black Writers, and the 1969 Sir George Williams Protest. The objective is to give students an appreciation of Canadian citizenship from this perspective. Among the authors who works will be studied are Suzette Mayr, Cecil Foster, and H. Nigel Thomas.
+    No description available at this time
     Course
     Withdrawal Date
     Friday, September 19, 2025
@@ -613,8 +607,8 @@ Literary Themes
     Drop Date
     Thursday, October 30, 2025
     Schedule
-    Tuesday	10:00 AM - 12:00 PM	4P.06	Class
-    Friday	10:00 AM - 12:00 PM	4P.06	Class
+    Tuesday	10:00 AM - 12:00 PM	4H.25	Class
+    Friday	10:00 AM - 12:00 PM	3F.3	Class
 
     Section Title
     Being Blitzed: British Literature of WWII
@@ -649,8 +643,8 @@ Literary Themes
     Drop Date
     Thursday, October 30, 2025
     Schedule
-    Tuesday	8:00 AM - 10:00 AM	4P.02	Class
-    Friday	8:00 AM - 10:00 AM	4P.02	Class
+    Tuesday	8:00 AM - 10:00 AM	2P.41	Class
+    Friday	8:00 AM - 10:00 AM	2P.41	Class
 
     Section Title
     Voices Across Contemporary Quebecois Literature

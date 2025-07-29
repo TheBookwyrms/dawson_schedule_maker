@@ -45,7 +45,7 @@ Intensive
 
 Results from Fall 2025
 
-This information was last updated at Friday, June 27, 2025 at 11:34 PM
+This information was last updated at Tuesday, July 29, 2025 at 5:05 AM
 Humanities
 Important Information
 
@@ -160,12 +160,14 @@ Applied Ethics in Humanities
     Tuesday	2:30 PM - 4:00 PM	4E.20	Class
     Thursday	2:30 PM - 4:00 PM	4E.20	Class
 
+    Section Title
+    The Ethics of What to Buy
     Section
     00009
     Teacher
-    TBA-345-D
+    Mariam Sambe
     Description
-    This Applied Ethics course is designed to provide students with the basic ideas and skills of moral reasoning so that they can identify and analyze various issues, including program-related ones, from an ethical perspective. Students become acquainted with a number of ethical theories and learn how to analyze and evaluate ethical arguments.
+    No description available at this time
     Course
     Withdrawal Date
     Friday, September 19, 2025
@@ -209,8 +211,8 @@ Applied Ethics in Humanities
     Drop Date
     Thursday, October 30, 2025
     Schedule
-    Monday	2:30 PM - 4:00 PM	2P.65	Class
-    Wednesday	2:30 PM - 4:00 PM	2P.65	Class
+    Monday	2:30 PM - 4:00 PM	4A.4	Class
+    Wednesday	2:30 PM - 4:00 PM	4A.4	Class
 
     Section Title
     Ethical Issues
@@ -493,7 +495,7 @@ Applied Ethics in Humanities
     Teacher
     Cory Legassic
     Description
-    No description available at this time
+    In this New School applied ethics course, we engage with concepts, theories, and models from a variety of disciplines to help us explore a pressing question: What are ethical considerations and approaches that can support our choices for engaging in difficult dialogue? Instead of looking for what is best/right/perfect in our disagreements, let’s explore conditions and methods for having hard conversations that are generative, creative, challenging, and nurturing of growth. New School’s critical humanistic education approach is grounded in three values: the facilitation of learning (rather than teaching), self-to-subject (drawing on the wisdom in the diversity of experience in the learning community), and emerging curriculum (providing a responsive structure with flexibility of content with students as co-designers and collaborators of learning).
     Comment
     New School
     Course
