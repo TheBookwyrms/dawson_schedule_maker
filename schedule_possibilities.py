@@ -2,7 +2,7 @@ from storage_classes import CoursesAndSchedules, Section
 
 from timetable_analysis import get_courses, get_mandatory_sections
 from timetable_analysis import filter_courses_for_allowed_sections
-from export_stuff import create_new_txts, create_new_csv, save_schedule_figs
+from export_stuff import create_new_txts, create_new_csv
 
 from time_management import is_compatible, are_slots_compatible, are_identical_schedules, are_conflicting_schedules
 
@@ -85,11 +85,3 @@ def get_unique_schedules(possible_schedules:CoursesAndSchedules):
 def export_allowed_courses(allowed_courses):
     create_new_txts(allowed_courses)
     create_new_csv(allowed_courses)
-
-
-def export_mandatory_sections(mandatory_sections):
-    save_schedule_figs(mandatory_sections, folder_name='mandatory_stuff', show_var=False)
-
-def export_schedules(unique_no_gym, unique_with_gym):
-    save_schedule_figs(unique_no_gym, folder_name="unique_schedules_no_gym", show_var=False)
-    save_schedule_figs(unique_with_gym, folder_name="unique_schedules_with_gym", show_var=True)

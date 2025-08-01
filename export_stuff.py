@@ -106,8 +106,12 @@ def create_new_csv(courses : list[CoursesAndSchedules]):
 
 
 def save_schedule_figs(unique_schedules:tuple[CoursesAndSchedules], folder_name, show_var=True):
-    folder_dir = f'{folder_name}{os.sep}'
-        
+    fdir = f'schedule_figs{os.sep}{folder_name}'
+    if not os.path.exists(fdir):
+        os.mkdir(fdir)
+    with open(f'{fdir}{os.sep}.gitkeep', "w+") as d:
+        pass
+
     var = 0
     schedule_idx = 0
     for idx, unique_schedule in (tqdm.tqdm(enumerate(unique_schedules),
@@ -169,6 +173,6 @@ def save_schedule_figs(unique_schedules:tuple[CoursesAndSchedules], folder_name,
         plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
         plt.subplots_adjust(right=0.74)
         v = f'_var_{var}' if show_var else ""
-        plt.savefig(f'{folder_dir}schedule_{schedule_idx}{v}')
+        plt.savefig(f'{fdir}{os.sep}schedule_{schedule_idx}{v}')
         plt.close(fig)
         #plt.show()
