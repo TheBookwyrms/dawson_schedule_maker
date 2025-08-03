@@ -10,6 +10,7 @@ def filter_by_conditions(possible_schedules):
 
         for section in schedule.sections:
             if section.course_title == "Literary Themes":
+                #print(section.section_number, section.section_title)
                 if section.section_title == "Time Travel in Literature":
                     eng = True
 

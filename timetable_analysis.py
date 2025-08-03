@@ -65,7 +65,7 @@ def filter_against_mandatory_sections(mandatory_sections : CoursesAndSchedules,
                     raise Exception(f'language {complementary_language} not en or fr')
 
             elif section.comment:
-                print(section.comment)
+                #print(section.comment)
                 if any([c in section.comment for c in ["Reflections", "New School"]]):
                     continue
 

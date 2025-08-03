@@ -20,7 +20,6 @@ def get_all_allowed_gen_eds(defaults):
 def section_is_already_counted(desired_section:CoursesAndSchedules|Section,
                                sections_seen:list[CoursesAndSchedules|Section]):
     
-    
     is_seen = []
 
     if len(sections_seen) >= 1:
@@ -34,11 +33,32 @@ def section_is_already_counted(desired_section:CoursesAndSchedules|Section,
     return any(is_seen)
 
 
+def section_is_counted(desired_section:Section,
+                        sections_seen:list[Section]):
+    
+    is_seen = []
+
+    if len(sections_seen) >= 1:
+        desired_num = desired_section.section_number
+        seen_nums = [seen.section_number for seen in sections_seen]
+
+        for schedule_to_compare_with in seen_nums:
+            is_seen.append(desired_num==schedule_to_compare_with)
+            #is_seen.append(are_identical_schedules(desired_num,
+            #                                    schedule_to_compare_with))
+        
+    return any(is_seen)
+
+
 def iterate_for_possible_schedules(mandatory_sections:CoursesAndSchedules=(),
                              next_iter_items:list[Section]=(),
                              current_sections_iterated:tuple[Section]=(),
                              schedule_possibilities:tuple[CoursesAndSchedules]=(),
                              origin=False):
+    
+    #print(len(next_iter_items))
+    #print(len(current_sections_iterated))
+    #print(len(schedule_possibilities))
 
     timeslots_seen = []
 
@@ -50,7 +70,9 @@ def iterate_for_possible_schedules(mandatory_sections:CoursesAndSchedules=(),
         return schedule_possibilities+(this_schedule,)
 
     for section in next_iter_items[0].sections:
-        if not section_is_already_counted(section, timeslots_seen):
+        #if not section_is_already_counted(section, timeslots_seen):
+        #if True:
+        if not section_is_counted(section, timeslots_seen):
             if any([are_conflicting_schedules(item, section) for item in current_sections_iterated]):
                 continue
             else:

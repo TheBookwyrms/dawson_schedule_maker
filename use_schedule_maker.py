@@ -66,3 +66,20 @@ print(  f'{len(filt_poss_no_gym)} `` ``, `` `` `` ``, only hum section 00003')
 print(f'{len(filt_poss_with_gym)} `` ``, `` `` ``, only hum section 00003')
 #print(f'{len(unique_sch_no_gym)} schedules with unique timeslots, before iterating through gyms')
 #print(f'{len(unique_sch_with_gym)} schedules with unique timeslots, iterating through gyms')
+
+
+for section in allowed_sections[2].sections:
+    if section.section_title == "Time Travel in Literature":
+        t = section.schedule_dict
+    #print(section.section_number, section.section_title)
+
+l = []
+for i, schedule in enumerate(possible_sch_with_gym):
+    for section in schedule.sections:
+        if section.course_title == "Literary Themes":
+            if section.schedule_dict == t:
+                l = set(list(l)+[section.section_number])
+                #print(i, section.course_title, section.section_number, section.section_title)
+
+print(t)
+print(l)
