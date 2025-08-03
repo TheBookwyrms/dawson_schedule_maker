@@ -54,18 +54,13 @@ for course in allowed_sections:
     print(len(course), "compatible courses in", course.title)
 
 
-#print()
-#print('''IMPORTANT NOTE: unique timeslots means
-#                schedules whose timeslots result in equivalent
-#                schedules, regardless of the courses
-#                or sections that make them up''')
 print()
 print(f'{len(possible_sch_no_gym)} possible schedules, before iterating through gyms')
 print(f'{len(possible_sch_with_gym)} possible schedules, iterating through gyms')
-print(  f'{len(filt_poss_no_gym)} `` ``, `` `` `` ``, only hum section 00003')
-print(f'{len(filt_poss_with_gym)} `` ``, `` `` ``, only hum section 00003')
-#print(f'{len(unique_sch_no_gym)} schedules with unique timeslots, before iterating through gyms')
-#print(f'{len(unique_sch_with_gym)} schedules with unique timeslots, iterating through gyms')
+print(  f'{len(filt_poss_no_gym)}, {len(filt_poss_no_gym[0])} `` ``, `` `` `` ``, only hum 03 and eng 19,   6 hopefully')
+print(f'{len(filt_poss_with_gym)} `` ``, `` `` ``, only hum 03 and eng 19')
+print(f'{len(unique_sch_no_gym)} schedules with unique timeslots, before iterating through gyms')
+print(f'{len(unique_sch_with_gym)} schedules with unique timeslots, iterating through gyms')
 
 
 for section in allowed_sections[2].sections:
@@ -83,3 +78,6 @@ for i, schedule in enumerate(possible_sch_with_gym):
 
 print(t)
 print(l)
+
+for schedule in filt_poss_no_gym[0]:
+    print(schedule.schedule_dict)

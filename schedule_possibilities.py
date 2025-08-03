@@ -17,8 +17,8 @@ def get_all_allowed_gen_eds(defaults):
 
 
 
-def section_is_already_counted(desired_section:CoursesAndSchedules|Section,
-                               sections_seen:list[CoursesAndSchedules|Section]):
+def section_is_already_counted(desired_section:CoursesAndSchedules,
+                               sections_seen:list[CoursesAndSchedules]):
     
     is_seen = []
 
@@ -40,10 +40,14 @@ def section_is_counted(desired_section:Section,
 
     if len(sections_seen) >= 1:
         desired_num = desired_section.section_number
+        desired_course = desired_section.course_title
         seen_nums = [seen.section_number for seen in sections_seen]
 
-        for schedule_to_compare_with in seen_nums:
-            is_seen.append(desired_num==schedule_to_compare_with)
+        for schedule_to_compare_with in sections_seen:
+            if desired_section.course_title == schedule_to_compare_with.course_title:
+                is_seen.append(desired_section.section_number == schedule_to_compare_with.section_number)
+
+            #is_seen.append(desired_num==schedule_to_compare_with.section_number)
             #is_seen.append(are_identical_schedules(desired_num,
             #                                    schedule_to_compare_with))
         
@@ -67,6 +71,7 @@ def iterate_for_possible_schedules(mandatory_sections:CoursesAndSchedules=(),
         this_schedule.sections.extend(mandatory_sections.sections)
         this_schedule.sections.extend(current_sections_iterated)
         this_schedule.update_schedule_dict()
+
         return schedule_possibilities+(this_schedule,)
 
     for section in next_iter_items[0].sections:
