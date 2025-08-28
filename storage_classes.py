@@ -62,8 +62,8 @@ class CoursesAndSchedules:
                 #print(day, timespan)
                 self.schedule_dict[day].extend(timespan)
         
-        for day, timespans in self.schedule_dict.items():
-            self.schedule_dict[day] = list(set(timespans))
+        #for day, timespans in self.schedule_dict.items():
+        #    self.schedule_dict[day] = list(set(timespans))
 
     def __len__(self):
         return len(self.sections)

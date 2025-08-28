@@ -4,7 +4,9 @@ from timetable_analysis import get_courses, get_mandatory_sections
 from timetable_analysis import filter_courses_for_allowed_sections
 from export_stuff import create_new_txts, create_new_csv
 
-from time_management import is_compatible, are_slots_compatible, are_identical_schedules, are_conflicting_schedules
+from time_management import (is_compatible, are_slots_compatible,
+                             are_identical_schedules, are_conflicting_schedules,
+                             is_possible_schedule)
 
 
 def get_all_allowed_gen_eds(defaults):
@@ -52,6 +54,29 @@ def section_is_counted(desired_section:Section,
             #                                    schedule_to_compare_with))
         
     return any(is_seen)
+
+
+def for_loop_iteration_test(mandatory_sections:CoursesAndSchedules, allowed_courses:list[CoursesAndSchedules], do_gym=True):
+    all_schedules = []
+    for hum in allowed_courses[0]:
+        for com in allowed_courses[1]:
+            for eng in allowed_courses[2]:
+                if do_gym:
+                    for gym in allowed_courses[3]:
+                        this_schedule = CoursesAndSchedules()
+                        this_schedule.sections = [*mandatory_sections.sections, hum, com, eng, gym]
+                        this_schedule.update_schedule_dict()
+                        all_schedules.append(this_schedule)
+                else:
+                    this_schedule = CoursesAndSchedules()
+                    this_schedule.sections = [*mandatory_sections.sections, hum, com, eng]
+                    this_schedule.update_schedule_dict()
+                    all_schedules.append(this_schedule)
+    
+    possible_schedules = [sch for sch in all_schedules if is_possible_schedule(sch)]
+
+    return possible_schedules
+
 
 
 def iterate_for_possible_schedules(mandatory_sections:CoursesAndSchedules=(),

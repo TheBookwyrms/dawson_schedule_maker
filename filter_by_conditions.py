@@ -1,5 +1,6 @@
 def filter_by_conditions(possible_schedules):
     filtered_sch = []
+    print("b", type(possible_schedules))
     for schedule in possible_schedules:
         hum = False
         eng = False
@@ -14,5 +15,6 @@ def filter_by_conditions(possible_schedules):
 
 
         if hum and eng:
+            #print("a", type(schedule))
             filtered_sch.append(schedule)
     return filtered_sch

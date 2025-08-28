@@ -1,7 +1,9 @@
 from schedule_possibilities import (get_all_allowed_gen_eds, iterate_for_possible_schedules,
-                                    get_unique_schedules, export_allowed_courses)
+                                    get_unique_schedules, export_allowed_courses,
+                                    for_loop_iteration_test)
 from filter_by_conditions import filter_by_conditions
 from export_stuff import save_schedule_figs
+from storage_classes import CoursesAndSchedules, Section
 
 
 allow_intensive_courses = False
@@ -36,6 +38,38 @@ possible_sch_with_gym = iterate_for_possible_schedules(mandatory_sections, allow
 filt_poss_no_gym = filter_by_conditions(possible_sch_no_gym)
 filt_poss_with_gym = filter_by_conditions(possible_sch_with_gym)
 
+print("c", type(possible_sch_no_gym))
+print("c", type(possible_sch_with_gym))
+
+png = for_loop_iteration_test(mandatory_sections, allowed_sections, do_gym=False)
+pwg = for_loop_iteration_test(mandatory_sections, allowed_sections, do_gym=True)
+print(len(png))
+print(len(pwg))
+
+sfng : list[CoursesAndSchedules] = filter_by_conditions(png)
+sfwg : list[CoursesAndSchedules] = filter_by_conditions(pwg)
+print(len(sfng))
+print(len(sfwg))
+
+#print()
+#for schedule in sfng:
+#    for section in schedule.sections[6:7]:
+#        print(schedule.schedule_dict)
+#        print(section.section_title, section.section_number, section.complementary_ensemble)
+#        #print(section.course_title, section.section_title, section.section_number, section.complementary_ensemble)
+#    print()
+
+
+export_allowed_courses(allowed_sections)
+print("exported")
+
+import sys
+sys.exit(0)
+
+
+#for i in png[14:18]:
+#    print(i.schedule_dict)
+
 unique_sch_no_gym = get_unique_schedules(possible_sch_no_gym)
 unique_sch_with_gym = get_unique_schedules(possible_sch_with_gym)
 
@@ -63,6 +97,9 @@ print(f'{len(unique_sch_no_gym)} schedules with unique timeslots, before iterati
 print(f'{len(unique_sch_with_gym)} schedules with unique timeslots, iterating through gyms')
 
 
+import sys
+sys.exit(0)
+
 for section in allowed_sections[2].sections:
     if section.section_title == "Time Travel in Literature":
         t = section.schedule_dict
@@ -80,4 +117,4 @@ print(t)
 print(l)
 
 for schedule in filt_poss_no_gym[0]:
-    print(schedule.schedule_dict)
+    print(type(schedule))

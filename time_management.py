@@ -97,4 +97,16 @@ def are_conflicting_schedules(schedule_1 : CoursesAndSchedules | Section, schedu
     if not all(compatible):
         return True
     else:
-        return False
+        return 
+    
+def is_possible_schedule(schedule:CoursesAndSchedules):
+    for day, times in schedule.schedule_dict.items():
+        for i, t1 in enumerate(times):
+            for j, t2 in enumerate(times):
+                if i!=j:
+                    if not is_compatible(t1, t2):
+                        return False
+    
+    #print()
+    #print()
+    return True

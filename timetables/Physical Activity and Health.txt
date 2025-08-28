@@ -45,7 +45,7 @@ Intensive
 
 Results from Fall 2025
 
-This information was last updated at Tuesday, July 29, 2025 at 5:05 AM
+This information was last updated at Monday, August 4, 2025 at 3:36 PM
 Physical Education
 Important Information
 
@@ -741,23 +741,6 @@ Physical Activity and Health
     Section Title
     Fitness
     Section
-    00029
-    Teacher
-    James Brasseur
-    Description
-    This course will introduce students to the theory and practice of a variety of training methods designed to improve the health components of fitness. The primary focus of the course is to examine the role that physical activity plays in the promotion of health. This course may also be available in compressed format including weekly classes of two to three hours throughout part of the semester and several three-hour classes at the beginning or end of term. Verify facility location, dates and time in the “Timetable & Registration Guide” prior to registering.
-    Course
-    Withdrawal Date
-    Friday, September 19, 2025
-    Course
-    Drop Date
-    Thursday, October 30, 2025
-    Schedule
-    Wednesday	4:00 PM - 6:00 PM	-2H.1	Class
-
-    Section Title
-    Fitness
-    Section
     00030
     Teacher
     Marcela Donoso
@@ -873,23 +856,6 @@ Physical Activity and Health
     Thursday, October 30, 2025
     Schedule
     Monday	8:00 AM - 10:00 AM	-1H.1	Class
-
-    Section Title
-    Fitness For Sport Performance
-    Section
-    00037
-    Teacher
-    Matthew Potter
-    Description
-    This course is designed for students looking to improve their performance and to reduce injury risk in sports and the performing arts. The primary theoretical focus of the course is to examine the role that physical activity plays in the promotion of health. Topics will include exploring lifestyle habits, physical activity habits, as well as the components of fitness. The primary practical focus of this class will be to increase strength, power and speed, while decreasing the risk of injuries within the context of athletic performance. Moreover, students will also practice appropriate workout procedures in class related to all the components of fitness.
-    Course
-    Withdrawal Date
-    Friday, September 19, 2025
-    Course
-    Drop Date
-    Thursday, October 30, 2025
-    Schedule
-    Wednesday	8:00 AM - 10:00 AM	-1H.1	Class
 
     Section Title
     Resistance Training
@@ -1060,23 +1026,6 @@ Physical Activity and Health
     Thursday, October 30, 2025
     Schedule
     Monday	10:00 AM - 12:00 PM	0H.1	Class
-
-    Section Title
-    Alternative Fitness
-    Section
-    00048
-    Teacher
-    Jamie Bolduc
-    Description
-    This course will introduce students to a variety of non-traditional training methods such as Pilates, Yoga, and exercises using fitness equipment such as BOSU balls, TRX, Swiss Balls, and elastic bands. The primary focus of the course is to examine the role that physical activity plays in the promotion of health. Verify facility location, dates and time in the “Timetable & Registration Guide” prior to registering.
-    Course
-    Withdrawal Date
-    Friday, September 19, 2025
-    Course
-    Drop Date
-    Thursday, October 30, 2025
-    Schedule
-    Wednesday	8:00 AM - 10:00 AM	0H.1	Class
 
     Section Title
     Alternative Fitness

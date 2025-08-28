@@ -45,7 +45,7 @@ Intensive
 
 Results from Fall 2025
 
-This information was last updated at Tuesday, July 29, 2025 at 5:05 AM
+This information was last updated at Monday, August 4, 2025 at 3:06 PM
 English
 Important Information
 
@@ -167,7 +167,7 @@ Literary Themes
     Section
     00007
     Teacher
-    Louise Arsenault
+    TBA-603-D
     Description
     No description available at this time
     Course
@@ -177,13 +177,13 @@ Literary Themes
     Drop Date
     Thursday, October 30, 2025
     Schedule
-    Wednesday	12:00 PM - 2:00 PM	5D.2	Class
-    Friday	12:00 PM - 2:00 PM	5D.2	Class
+    Wednesday	12:00 PM - 2:00 PM	4P.10	Class
+    Friday	12:00 PM - 2:00 PM	4P.10	Class
 
     Section
     00008
     Teacher
-    Louise Arsenault
+    TBA-603-D
     Description
     No description available at this time
     Course
@@ -199,7 +199,7 @@ Literary Themes
     Section
     00009
     Teacher
-    Alyson Grant
+    TBA-603-C
     Description
     No description available at this time
     Course
@@ -795,13 +795,13 @@ Literary Themes
     Wednesday	10:00 AM - 12:00 PM	4H.12	Class
 
     Section Title
-    Motherhood
+    Modern Love
     Section
     00044
     Teacher
     Hannah Rahimi
     Description
-    No description available at this time
+    In this course, we will look at portrayals of romantic love in contemporary short fiction. Each writer on the syllabus takes a unique approach to defining love and exploring it through language. Inevitably, their explorations intersect with questions of identity, power, societal expectations, collective fantasies, and individual psychologies. Students are expected to participate regularly in group work and class discussions, as well as completing in-class writing exercises and reading quizzes.
     Course
     Withdrawal Date
     Friday, September 19, 2025
@@ -958,4 +958,3 @@ Literary Themes
     Schedule
     Thursday	11:30 AM - 2:30 PM	4E.13	Class
 
-Back to Top
